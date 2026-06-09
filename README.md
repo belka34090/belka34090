@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<# Belkacem Benmimoun
-
 ## DevOps · Cloud · Data Engineering · AI · MLOps
 
 Je construis progressivement un profil technique orienté infrastructure, automatisation, data et intelligence artificielle.
