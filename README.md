@@ -5,6 +5,15 @@
 Je construis progressivement un profil technique orienté infrastructure, automatisation, data et intelligence artificielle.
 
 Mon GitHub documente mon parcours IT : projets, apprentissages, erreurs, corrections, réussites et progression technique.
+---
+
+## Liens principaux
+
+* Portfolio : https://belka34090.github.io
+* LinkedIn : [www.linkedin.com/in/belkacem-adsysdevops](https://www.linkedin.com/in/belkacem-adsysdevops)
+* GitHub : https://github.com/belka34090
+
+---
 
 ---
 
