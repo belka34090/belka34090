@@ -13,7 +13,6 @@ Mon GitHub documente mon parcours IT : projets, apprentissages, erreurs, correct
 * LinkedIn : [www.linkedin.com/in/belkacem-adsysdevops](https://www.linkedin.com/in/belkacem-adsysdevops)
 * GitHub : https://github.com/belka34090
 
----
 
 ---
 
