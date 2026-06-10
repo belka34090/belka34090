@@ -5,7 +5,7 @@
 Je construis progressivement un profil technique orienté infrastructure, automatisation, data et intelligence artificielle.
 
 Mon GitHub documente mon parcours IT : projets, apprentissages, erreurs, corrections, réussites et progression technique.
----
+
 
 ## Liens principaux
 
